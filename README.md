@@ -1,5 +1,7 @@
 ## Tarea Inicial
 
+Modificación del fichero inicial
+
 Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
 
 * NodeJS
